@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nima0001
+- 👋 Hi, I’m Nima Hyolmo (@nima0001)
 - 👀 I’m interested in  Robotics, Controls and Machine Learning.
 - 🌱 I’m currently doing undergraduate studies in Mechanical Engineering and Applied Mathematics.
 - 📫 How to reach me: nimo@mit.edu
